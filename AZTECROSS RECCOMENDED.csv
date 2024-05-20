@@ -1,0 +1,49 @@
+Name,Type,Archetype,Element,Sights/Barrels,Magazine,Perk 1,Perk 2,Masterwork,Activity
+"Chroma Rush",Auto Rifle,"Rapid-Fire Frame",Kinetic,"Arrowhead Brake","Accurized Rounds,Flared Magwell","Heating Up,Subsistence,Dynamic Sway Reduction","Rampage,Adrenaline Junkie", ,"PvE"
+,,,,,,,,
+"Breakneck",Auto Rifle,"Precision Frame",Kinetic,"Arrowhead Brake,Corkscrew Rifling","Ricochet Rounds,Armor-Piercing Rounds","Enlightened Action","Kinetic Tremors", ,"PvE"
+,,,,,,,,
+"Krait",Auto Rifle,"Rapid-Fire Frame",undefined,"Arrowhead Brake","Armor-Piercing Rounds,Ricochet Rounds","Subsistence,Overflow","Vorpal Weapon,Headstone", ,"PvE"
+,,,,,,,,
+"The Mountaintop",Grenade Launcher,"Micro-Missile Frame",Kinetic,"Quick Launch,Hard Launch","High-Velocity Rounds","Impulse Amplifier","Recombination", ,"PvE"
+,,,,,,,,
+"Midnight Coup",Hand Cannon,"Adaptive Frame",Kinetic,"Arrowhead Brake","Accurized Rounds","Explosive Payload","Kinetic Tremors", ,"PvE"
+,,,,,,,,
+"Blast Furnace",Pulse Rifle,"Aggressive Burst",Kinetic,"Arrowhead Brake,Corkscrew Rifling,Chambered Compensator","Accurized Rounds,Appended Mag","Kinetic Tremors","One for All", ,"PvE"
+,,,,,,,,
+"Hung Jury SR4",Scout Rifle,"Precision Frame",Kinetic,"Arrowhead Brake","Accurized Rounds","Kinetic Tremors","Precision Instrument", ,"PvE"
+,,,,,,,,
+"Succession",Sniper Rifle,"Aggressive Frame",Kinetic,"Arrowhead Brake","Accurized Rounds","Discord","Redirection", ,"PvE"
+,,,,,,,,
+"Gnawing Hunger",Auto Rifle,"Adaptive Frame",Void,"Arrowhead Brake","Accurized Rounds,Flared Magwell","Subsistence,Overflow","Rampage", ,"PvE"
+,,,,,,,,
+"Sweet Sorrow",Auto Rifle,"Rapid-Fire Frame",Arc,"Arrowhead Brake","Accurized Rounds","Stats for All,Stats for All","One for All,One for All", ,"PvE"
+,,,,,,,,
+"Sorrow's Verse",Auto Rifle,"Adaptive Frame",Arc,"Arrowhead Brake","Accurized Rounds","Subsistence","Rampage", ,"PvE"
+,,,,,,,,
+"Reckless Oracle",Auto Rifle,"Rapid-Fire Frame",Void,"Arrowhead Brake","Armor-Piercing Rounds,High-Caliber Rounds,Ricochet Rounds","Outlaw","Kill Clip", ,"PvE"
+,,,,,,,,
+"Ros Arago IV",Auto Rifle,"Adaptive Frame",Void,"Arrowhead Brake,Chambered Compensator","Accurized Rounds,Appended Mag","Subsistence","Surrounded", ,"PvE"
+,,,,,,,,
+"Forbearance",Grenade Launcher,"Wave Frame",Arc,"Volatile Launch,Countermass,Hard Launch","High-Velocity Rounds","Ambitious Assassin","Chain Reaction", ,"PvE"
+,,,,,,,,
+"Luna's Howl",Hand Cannon,"Precision Frame",Solar,"Corkscrew Rifling,Full Bore,Hammer-Forged Rifling","Armor-Piercing Rounds,Ricochet Rounds,High-Caliber Rounds","Encore","Magnificent Howl", ,"PvE"
+,,,,,,,,
+"Elsie's Rifle",Pulse Rifle,"High-Impact Frame",Void,"Arrowhead Brake","Ricochet Rounds,Armor-Piercing Rounds,High-Caliber Rounds","Rewind Rounds","Desperado", ,"PvE"
+,,,,,,,,
+"Insidious",Pulse Rifle,"Aggressive Burst",Arc,"Arrowhead Brake","Accurized Rounds","Rapid Hit,Rapid Hit","Rampage,Rampage", ,"PvE"
+,,,,,,,,
+"The Recluse",Submachine Gun,"Lightweight Frame",Void,"Arrowhead Brake","Ricochet Rounds,Armor-Piercing Rounds","Subsistence","Frenzy", ,"PvE"
+,,,,,,,,
+"IKELOS_SMG_v1.0.3",Submachine Gun,"Aggressive Frame",Arc,"Arrowhead Brake","Seraph Rounds","Feeding Frenzy,Feeding Frenzy","Voltshot,Voltshot", ,"PvE"
+,,,,,,,,
+"Funnelweb",Submachine Gun,"Lightweight Frame",Void,"Arrowhead Brake","Accurized Rounds","Subsistence","Frenzy", ,"PvE"
+,,,,,,,,
+"Edge Transit",Grenade Launcher,"Adaptive Frame",Void,"Quick Launch,Linear Compensator","Spike Grenades,Alloy Casing,Proximity Grenades","Cascade Point","Bait and Switch", ,"PvE"
+,,,,,,,,
+"Hammerhead",Machine Gun,"Adaptive Frame",Void,"Arrowhead Brake","Extended Mag,Appended Mag","Rampage","Onslaught", ,"PvE"
+,,,,,,,,
+"Crux Termination IV",Rocket Launcher,"Aggressive Frame",Arc,"Volatile Launch,Confined Launch,Countermass","Impact Casing,Alloy Casing,High-Velocity Rounds","Reconstruction,Envious Assassin,Clown Cartridge","Bipod,Explosive Light", ,"PvE"
+,,,,,,,,
+"Falling Guillotine",Sword,"Vortex Frame",Void,"Jagged Edge","Balanced Guard","Frenzy","Surrounded", ,"PvE"
+,,,,,,,,
